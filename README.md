@@ -1,1 +1,1 @@
-# GamePicker
+# GameDice
